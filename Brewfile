@@ -4,18 +4,30 @@
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
-cask amethyst
+cask atom
+cask clipmenu
+cask dropbox
+cask google-chrome
+cask iterm2
+cask karabiner
 cask spectacle
+cask virtualbox
 
 ## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew gdbm
+brew git
 brew libevent
 brew openssl
+brew pcre
+brew peco
 brew tmux
 brew wget
+brew z
+brew zsh
 
 # App Store applications
 appstore GarageBand

@@ -19,13 +19,16 @@ brew brew-file
 
 # Other Homebrew packages
 brew gdbm
+brew ghq
 brew git
 brew libevent
 brew openssl
 brew pcre
 brew peco
+brew the_silver_searcher
 brew tmux
 brew wget
+brew xz
 brew z
 brew zsh
 

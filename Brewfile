@@ -21,12 +21,15 @@ brew brew-file
 brew gdbm
 brew ghq
 brew git
+brew hub
 brew libevent
 brew openssl
 brew pcre
 brew peco
+brew reattach-to-user-namespace
 brew the_silver_searcher
 brew tmux
+brew unar
 brew wget
 brew xz
 brew z
@@ -38,3 +41,4 @@ appstore iMovie
 appstore Keynote
 appstore Numbers
 appstore Pages
+appstore Xcode

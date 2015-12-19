@@ -19,7 +19,6 @@ cask slack
 cask spectacle
 cask vagrant
 cask virtualbox
-cask vivaldi
 
 ## rcmdnk/file
 tap rcmdnk/file
@@ -28,14 +27,23 @@ brew brew-file
 # Other Homebrew packages
 brew ansible
 brew awscli
+brew freetype
+brew gdbm
 brew ghq
 brew git
 brew gpp
 brew imagemagick
+brew jpeg
+brew libevent
+brew libpng
+brew libtiff
+brew libtool
+brew libyaml
 brew ngrok
 brew nkf
 brew node
 brew openssl
+brew pcre
 brew peco
 brew readline
 brew the_silver_searcher
@@ -44,14 +52,6 @@ brew tmux
 brew tree
 brew unar
 brew wget
+brew xz
 brew z
 brew zsh
-
-# App Store applications
-appstore GarageBand
-appstore iMovie
-appstore Keynote
-appstore LastPass
-appstore Numbers
-appstore Pages
-appstore Xcode

@@ -1,14 +1,16 @@
 
 # tap repositories and their packages
 
-## caskroom/cask
 tap caskroom/cask
 brew brew-cask
 cask adobe-air
 cask atom
 cask clipmenu
+cask dockertoolbox
 cask dropbox
 cask firealpaca
+cask firefox
+cask gimp
 cask google-chrome
 cask google-japanese-ime
 cask iterm2
@@ -19,14 +21,20 @@ cask slack
 cask spectacle
 cask vagrant
 cask virtualbox
+cask vivaldi
 
-## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
+tap argon/mas
+brew mas
+
 # Other Homebrew packages
 brew ansible
+brew aws-elasticbeanstalk
 brew awscli
+brew colordiff
+brew coreutils
 brew freetype
 brew gdbm
 brew ghq
@@ -46,6 +54,7 @@ brew openssl
 brew pcre
 brew peco
 brew readline
+brew reattach-to-user-namespace
 brew the_silver_searcher
 brew tig
 brew tmux
@@ -55,3 +64,8 @@ brew wget
 brew xz
 brew z
 brew zsh
+
+# App Store applications
+appstore 926036361 LastPass
+appstore 409203825 Numbers
+appstore 497799835 Xcode
